@@ -18,3 +18,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlasacademy&repo=apps" />
   </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=O-isaac" alt="Trophys" />
+</p>

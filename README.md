@@ -1,4 +1,4 @@
-<h2 align="left">Im 👨‍🎓 who is learning about web dev....</h2>
+<img src="i.imgur.com/W5LPJm6.png" alt="O-Isaac Web Developer" />
 
 ###
 
@@ -48,6 +48,5 @@
 
 <br clear="both">
 
-<img href="https://github.com/O-Isaac" src="https://raw.githubusercontent.com/O-Isaac/O-isaac/output/snake.svg" alt="Snake animation" />
 
 ###

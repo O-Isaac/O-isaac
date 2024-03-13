@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/O-Isaac/FGO-Daily-Login">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-isaac&repo=FGO-Daily-Login&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=o-isaac&repo=FGO-Daily-Login" />
   </a>
   <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlasacademy&repo=apps&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=atlasacademy&repo=apps" />
   </a>
 </p>
 

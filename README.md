@@ -1,4 +1,4 @@
-<img src="i.imgur.com/W5LPJm6.png" alt="O-Isaac Web Developer" />
+<img src="https://i.imgur.com/W5LPJm6_d.webp?maxwidth=760&fidelity=grand" alt="O-Isaac Web Developer" />
 
 ###
 

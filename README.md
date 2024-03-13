@@ -22,5 +22,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=O-isaac" alt="Trophys" />
+  <img src="https://github-profile-trophy.vercel.app/?username=O-isaac&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=9" alt="Trophys" />
 </p>

@@ -1,4 +1,8 @@
-<img src="https://i.imgur.com/W5LPJm6_d.webp?maxwidth=760&fidelity=grand" alt="O-Isaac Web Developer" />
+<div align="center">
+  <a href="https://thicc-thighs.de/" >
+    <img src="https://lanyard.kyrie25.me/api/733475488017678407?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square&idleMessage=Pensando%20en%20nuevo%20proyectos..."  />
+  </a>
+</div>
 
 ###
 

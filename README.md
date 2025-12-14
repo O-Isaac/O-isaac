@@ -22,7 +22,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=o-isaac&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&theme=react">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=o-isaac&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&theme=react">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=o-isaac&hide_border=true&background=FFFFFF00&theme=react">
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=O-Isaac&theme=transparent&hide_border=true&locale=es&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 
 ---

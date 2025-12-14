@@ -44,7 +44,7 @@ Soy un desarrollador Full Stack apasionado por crear aplicaciones web modernas y
 ## 🏆 Logros de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy-wheat-omega.vercel.app/?username=O-isaac&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=9&theme=flat" alt="Trophys" />
+  <img src="https://github-profile-trophy-wheat-omega.vercel.app/?username=O-isaac&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=9&theme=flat" alt="Trophies" />
 </p>
 
 ---
@@ -67,9 +67,6 @@ Soy un desarrollador Full Stack apasionado por crear aplicaciones web modernas y
 <p align="center">
   <a href="https://github.com/O-Isaac">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
